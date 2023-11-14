@@ -26,18 +26,18 @@ exports['TopXTextUI']:HideUI()
 ## Server Side Show Usage
 
 ```lua
-TriggerServerEvent("TopXUI:ShowUI", source, message, type)
+TriggerClientEvent("TopXUI:ShowUI", source, message, type)
 ```
 
 ## Server Side Show Example
 
 ```lua
-TriggerServerEvent("TopXUI:ShowUI", source, "Press [E] To Open", "blue")
+TriggerClientEvent("TopXUI:ShowUI", source, "Press [E] To Open", "blue")
 ```
 ## Server Side Hide
 
 ```lua
-TriggerServerEvent("TopXUI:HideUI", source)
+TriggerClientEvent("TopXUI:HideUI", source)
 ```
 ### Types
 
