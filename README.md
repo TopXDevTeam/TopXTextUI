@@ -14,7 +14,7 @@ exports['TopXTextUI']:TextUI(message, type)
 ## Client Side Show Example
 
 ```lua
-exports['TopXTextUI']:TextUI("success", "Press [E] To Open")
+exports['TopXTextUI']:TextUI("green", "Press [E] To Open")
 ```
 
 ## Client Side Hide
@@ -32,7 +32,7 @@ TriggerServerEvent("TopXUI:ShowUI", source, message, type)
 ## Server Side Show Example
 
 ```lua
-TriggerServerEvent("TopXUI:ShowUI", source, "Press [E] To Open", "info")
+TriggerServerEvent("TopXUI:ShowUI", source, "Press [E] To Open", "blue")
 ```
 ## Server Side Hide
 
@@ -70,4 +70,3 @@ TriggerServerEvent("TopXUI:HideUI", source)
 
 ### Donation
 <a href="https://www.buymeacoffee.com/topxteam26" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="35" width="174"></a>
-
