@@ -47,23 +47,23 @@ i {
     background-color: rgba(51, 51, 51, 1);
 }
 
-.textui-error {
+.textui-red {
     background: linear-gradient(90deg, rgba(255, 53, 91, 1) 5%, rgba(51, 51, 51, 1) 33%);
 }
 
-.textui-info {
+.textui-blue {
     background: linear-gradient(90deg, rgba(47, 134, 235, 1) 5%, rgba(51, 51, 51, 1) 33%);
 }
 
-.textui-success {
+.textui-green {
     background: linear-gradient(90deg, rgba(71, 215, 100, 1) 5%, rgba(51, 51, 51, 1) 33%);
 }
 
-.textui-warning {
+.textui-yellow {
     background: linear-gradient(90deg, rgba(255, 192, 33, 1) 5%, rgba(51, 51, 51, 1) 33%);
 }
 
-.textui-bank {
+.textui-orange {
     background: linear-gradient(90deg, rgb(209, 128, 6) 5%, rgba(51, 51, 51, 1) 33%);
 }
 
