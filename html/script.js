@@ -28,15 +28,15 @@ const createUI = (textUIType, message) => {
 
 const getIconColor = (type) => {
     switch (type) {
-        case "success":
+        case "green":
             return "rgba(71, 215, 100, .6)";
-        case "error":
+        case "red":
             return "rgba(255, 53, 91, .6)";
-        case "info":
+        case "blue":
             return "rgba(47, 134, 235, .6)";
-        case "warning":
+        case "yellow":
             return "rgba(255, 192, 33, .6)";
-        case "bank":
+        case "orange":
             return "rgba(209, 128, 6, .6)";
         default:
             return "rgba(255, 255, 255, .6)";

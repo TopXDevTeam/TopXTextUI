@@ -41,11 +41,11 @@ TriggerServerEvent("TopXUI:HideUI", source)
 ```
 ### Types
 
-- **<span style="color:rgba(71, 215, 100, 1)">success</span><br>**
-- **<span style="color:rgba(255, 53, 91, 1)">error</span><br>**
-- **<span style="color:rgba(47, 134, 235, 1)">info</span><br>**
-- **<span style="color:rgba(255, 192, 33, 1)">warning</span><br>**
-- **<span style="color:rgb(209, 128, 6) ">bank</span><br>**
+- **<span style="color:rgba(71, 215, 100, 1)">green</span><br>**
+- **<span style="color:rgba(255, 53, 91, 1)">red</span><br>**
+- **<span style="color:rgba(47, 134, 235, 1)">blue</span><br>**
+- **<span style="color:rgba(255, 192, 33, 1)">yellow</span><br>**
+- **<span style="color:rgb(209, 128, 6) ">orange</span><br>**
 - **<span style="color:rgba(51, 51, 51, 1)">Default/Unknown</span><br>**
 
 ![TopXTextUI](https://cdn.discordapp.com/attachments/1083634745172299808/1174025379233681408/image.png?ex=65661756&is=6553a256&hm=413555ae3f952653f2c4205b0d965e6541499c54e18027f626da617ceaa6ddd7&)
