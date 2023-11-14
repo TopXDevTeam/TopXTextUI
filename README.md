@@ -14,7 +14,7 @@ exports['TopXTextUI']:TextUI(message, type)
 ## Client Side Show Example
 
 ```lua
-exports['TopXTextUI']:TextUI("green", "Press [E] To Open")
+exports['TopXTextUI']:TextUI( "Press [E] To Open", "green")
 ```
 
 ## Client Side Hide

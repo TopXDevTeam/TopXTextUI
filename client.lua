@@ -21,7 +21,3 @@ RegisterNetEvent('TopXUI:HideUI')
 AddEventHandler('TopXUI:HideUI', function()
     HideUI()
 end)
-
-RegisterCommand("test", function()
-    
-end, false)
