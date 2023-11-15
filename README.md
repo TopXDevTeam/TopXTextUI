@@ -1,4 +1,4 @@
-# TopXNotify Documentation
+# TopXTextUI Documentation
 
 ![TopXTextUI](https://cdn.discordapp.com/attachments/1173827107953057862/1173829005535891456/TEXTUI.png?ex=65656073&is=6552eb73&hm=69d81ec4bf714aa213e3ac52defa3318e73d9b0d24562b8c9c22e98069e7bfa9&)
 
